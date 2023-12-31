@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lists</title>
+    </head>
+    <body>
+        <ul><h4>List of Names</h4>
+            <li>Maatu Ravi</li>
+            <li>Saara Paambu</li>
+            <li>Pattasu Balu</li>
+            <li>Bomb Sekar</li>
+            <li>Puli Kuthi Paandi</li>
+        </ul>
+        <hr>
+        <ol><h4>Cricketers</h4>
+            <li>Rohit Sharma</li>
+            <li>Virat Kohli</li>
+            <li>Iyer</li>
+            <li>Gill</li>
+            <li>KL Rahul</li>
+        </ol>
+        <hr>
+    </body>
+</html>
