@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tables</title>
+</head>
+<body>
+    <h1>Hotel Menu</h1>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>No.</th>
+                <th>Dish Menu</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1.</td>
+                <td>Biryani</td>
+                <td>150</td>
+            </tr>
+            <tr>
+                <td>2.</td>
+                <td>Chapati</td>
+                <td>20</td>
+            </tr>
+            <tr>
+                <td>3.</td>
+                <td>Parotta</td>
+                <td>30</td>
+            </tr>
+        </tbody>
+    </table>
+    <hr/>
+    
+   
+    <h1>How to Create a Table</h1>
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>No.</th>
+                    <th>List</th>
+                    <th>tag</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1.</td>
+                    <td>Creating Table</td>
+                    <td>table</td>
+                </tr>
+                <tr>
+                    <td>2.</td>
+                    <td>Table Heading</td>
+                    <td>thead(Creating heading section)</td>
+                </tr>
+                <tr>
+                    <td>3.</td>
+                    <td>Table Row</td>
+                    <td>tr</td>
+                </tr>
+                <tr>
+                    <td>4.</td>
+                    <td>Table Body</td>
+                    <td>tbody(table kula irukara list)</td>
+                </tr>
+                <tr>
+                    <td>5.</td>
+                    <td>Table Data</td>
+                    <td>td</td>
+                </tr>
+                <tr>
+                    <td>6.</td>
+                    <td>Lines</td>
+                    <td>border="1"</td>
+                </tr>
+                <tr>
+                    <td>7.</td>
+                    <td>Table Head</td>
+                    <td>th</td>
+                </tr>
+            </tbody>
+        </table>
+    <hr/>
+
+    <p>
+    Creating Table - table<br/>
+    Table Heading - thead(To Create Topic)<br/>
+    Table head - th <br/>
+    Table Row - tr</br>
+    Table Body - tbody(table kula irukara list)<br/>
+    Table Data - td<br/>
+    <hr/>
+    table:<br/>
+    thead -> tr -> th <br/>
+    tbody -> tr -> td <br/>
+    <hr/>
+    thead kula tha table row(tr) irukum <br/>
+    Table row(tr) kula tha (th) irukum <br/>
+    Table row(tr) kula tha table body irukum(tb) <br/>
+    Table body(tbody) kula tha table row(tr) irukum <br/>
+    Table row(tr) kula, table data(td) irukum
+    </p>
+</body>
+</html>
