@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+
+        </title>
+    </head>
+    <body>
+        <h1><del>Hello Guyzz....</del></h1>
+        <h2><i>Hello Guyzz.....</i></h2>
+        <h3><u>Hello Guyzz....</u></h3>
+        <h4>Hello Guyzz....</h4>
+        <h5>Hello Guyzz....</h5>
+        <h6>Hello Guyzz....</h6>
+        <hr/>
+        <p>Attributes - <b>Tag kula use panrathutha ...</b><br>
+        <u>For example:</u> <br/>
+        src=" " <br/>
+        href=" " <br/>
+        </p>
+        <p>
+        <img src=""/>
+        <a href="">We use this for links and to connect its website</a><br/>
+        <a href="" target="_blank">We use this for opening that link in new tab</a>
+        </p>
+        <hr/>
+        <br>
+        <img src="./img/icecream.png" width="100"/><br/>       
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYpG4LpS7-II9gTuox8vbFKjsqDBaGE05x5nVElR7A6KL_0q_yLQ6V4eapej1Gvh2Qt2Y&usqp=CAU" width="100"/>
+        <hr/>
+        <button><i>Click Me</i></button>
+        <a href="https://www.google.com/" target="_blank">Google</a>
+        
+    </body>
+</html>
