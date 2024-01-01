@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS</title>
+    <!-- <style>
+        h2{
+            color: rgb(221, 0, 255);
+        }
+
+        p{
+            font-size: 30px;
+            color: rgb(255, 47, 47);
+            border: 5px solid purple;
+            background-color: aqua;
+        }
+    </style> -->
+</head>
+<body>
+    <p>Inline CSS<br/>Internal CSS<br/>External CSS</p>
+    <hr/>
+    <h1 style="color: #0c2c7c;">Hello Guyzz....(Inline CSS-Highest priority)</h1>
+    <hr/>
+    <p>color - properties<br/>aqua - value</p>
+    <hr/>
+    <h2>Internal CSS-Second priority</h2>
+    <hr/>
+    <h3>External CSS</h3>
+    <link href="./styles.css" type="text/css" rel="stylesheet"/>
+    <hr/>
+    <h4>External CSS</h4>
+    <h4 id="h42">External CSS</h4>
+    <h4  class="commonHeading">External CSS</h4>
+    <h4 class="commonHeading">External CSS</h4>
+    <h4 class="commonHeading">External CSS</h4>
+    <h4>External CSS</h4>
+</body>
+</html>
+
+CSS:
+h2{
+    color: rgb(221, 0, 255);
+}
+
+p{
+    font-size: 30px;
+    color: rgb(255, 47, 47);
+    border: 5px solid purple;
+    background-color: aqua;
+} 
+
+h4{
+    border: 10px solid cornflowerblue;
+    background-color:aquamarine;
+}
+
+#h42{
+    background-color:brown;
+    border-color:black;
+    color:white;
+}
+
+.commonHeading{
+    background-color:greenyellow;
+    border-color: blanchedalmond;
+}
