@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Youtube link with HTML</title>
+</head>
+<body>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/jPyolfVaXKH?si=4vX01yrHiaibhmHX" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Z9Lghe4VYk4?si=1nhi7wJNvbX2Z6Gm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe src="https://www.lorum.com" width="560" height="315"></iframe>
+    </html>
