@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML blockElement & inlineElement</title>
+</head>
+<body>
+    <h1>Block elements - Motha width eduthukum</h1>
+
+    <p style="background-color: red;">block elements - browser motha screen cover pani mothathukum background set paniruku<br/>h1,h2,h3,h4,h5,h6,p,div,table tag,ul,li elame block elements kula tha varum. Motha width eduthukum</p>
+    <label style="background-color: blue;">INLINE ELEMENT - content ku matum background color kudukum<br/>a tag, image tag, br tag, </label>
+</body>
+</html>
