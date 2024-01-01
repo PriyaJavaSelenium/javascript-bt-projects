@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS flex box Model</title>
+    <style>
+        #outer-box{
+            width: 800px;
+            height: 500px;
+            background-color: grey;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            justify-content: space-around;
+            justify-content: center;
+            align-items: center;
+
+            gap: 10px;
+        }
+        .box{
+            width: 150px;
+            height: 150px;
+            
+        }
+        #box1{
+            background-color: red;
+            
+        }
+        #box2{
+            background-color: orange;
+    
+        }
+        #box3{
+            background-color: green;
+           
+        }
+        #box4{
+            background-color: brown;
+          
+        }
+
+    </style>
+</head>
+<body>
+    <div id="outer-box">
+        <div id="box1" class="box"></div>
+        <div id="box2" class="box"></div>
+        <div id="box3" class="box"></div>
+        <div id="box4" class="box"></div>
+    </div>
+    <div>
+        <p>display: flex; - div kula suruki or size small pani correct ah vachurum<br/>
+        flex-wrap: wrap; -  surukama or size change panama same size la arrange pani vachurum<br/>
+        justify-content: space-between; - space ah pirichu equal ah content ku share panirum<br/>
+        justify-content: space-around; - suthiyum space pirichu kuduthurum<br/>
+        gap: 10px; - namaku thevayana gap ah naamae kuduthukalam<br/>
+        justify-content: center; - for x axis, alaga center la pirichu kuduthurum<br/>
+        align-items: center; - both x axis and y axis center la align aagirum
+    </p>
+
+    </div>
+</body>
+</html>
